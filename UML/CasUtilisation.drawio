@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-16T16:30:08.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="DK5PLg8_Slys_4fUinr9" version="15.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-16T16:32:19.281Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="5Xg_Dlroa_lMu-fqhrzh" version="15.7.4" type="github">
   <diagram id="6MGdmcKs9yKgFIxDK5bO" name="Page-1">
     <mxGraphModel dx="1848" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,10 +114,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="8IUe3LPVnhSWRVFbozZq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="8IUe3LPVnhSWRVFbozZq-24" target="8IUe3LPVnhSWRVFbozZq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8IUe3LPVnhSWRVFbozZq-24" value="Choisir son animal" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8IUe3LPVnhSWRVFbozZq-26" value="Choix aléatoire&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="8IUe3LPVnhSWRVFbozZq-26" value="Choisir personnage&amp;nbsp; aléatoire&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="380" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8IUe3LPVnhSWRVFbozZq-28" value="Choisir sa carte" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
